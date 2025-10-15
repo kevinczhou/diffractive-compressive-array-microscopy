@@ -1,0 +1,13 @@
+FROM ghcr.io/nvidia/jax:nightly-2023-12-12
+
+RUN pip install tqdm
+RUN pip install opencv-python-headless
+RUN pip install matplotlib
+RUN pip install xarray
+RUN pip install netcdf4
+RUN pip install jupyter
+RUN pip install "dask[complete]" 
+RUN pip install h5netcdf
+RUN pip install imageio
+
+WORKDIR /
