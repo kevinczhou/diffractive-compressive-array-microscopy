@@ -2,7 +2,7 @@
 Large-scale compressive microscopy via diffractive multiplexing across a sensor array
 
 ## Data
-Two video datasets can be downloaded from [here](https://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/eScwGsVTxkEkyjRQuEdzRPoSBVwh5D_Q8TuqOLZKfe8) -- put these in `./data`. 
+Two video datasets can be downloaded from [here](https://doi.org/10.5061/dryad.tmpg4f5b6) -- put these in `./data`. 
 
 ## Setting up your compute environment
 Install docker and pull the following image:
